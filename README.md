@@ -6,23 +6,23 @@ Willst du mitmachen? Schaue [die nächsten Kurse](https://www.vhs-starnbergammer
 
 Spielt gerne die Spiele, die unsere Schüler (8—12 Jahre Alt) programmiert haben.
 
-<div class="local-container">
-  <div class="local-item">
+<div class="flex-container">
+  <div class="flex-item">
    <a href="https://makecode.com/_RHWPFUVdMi0h">
     <img src="img/1-1.png" width="240" height="180" title="Kilian">
    </a>
   </div>
-  <div class="local-item">
+  <div class="flex-item">
    <a href="https://makecode.com/_Edm6p0iYq9Ek">
     <img src="img/ragnar-01.png" width="240" height="180" titel="Ragnar">
    </a>
   </div>
-  <div class="local-item">
+  <div class="flex-item">
    <a href="https://makecode.com/_2kpYcXe080ov">
     <img src="img/emil-01.png" width="240" height="180" title="Emil">
    </a> 
   </div>
-  <div class="local-item">
+  <div class="flex-item">
    <a href="https://makecode.com/_b4Y0pchrwbPd">
     <img src="img/maxi-01.png" width="240" height="180" title="Maximilian">
    </a>

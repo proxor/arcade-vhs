@@ -19,13 +19,13 @@
 
 .flex-item {
   /* Defines the size of each block */
-  width: 300px;
+  width: 250px;
   
   /* Allows the block to shrink if necessary, but tries to maintain 300px */
-  flex: 1 1 300px; 
+  // flex: 1 1 300px; 
   
   /* Padding/Styling for visibility */
-  padding: 20px;
-  border: 1px solid #ccc;
+  // padding: 20px;
+  // border: 1px solid #ccc;
   text-align: center;
 }
