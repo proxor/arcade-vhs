@@ -8,9 +8,9 @@ Willst du mitmachen? Schaue [die nächsten Kurse](https://www.vhs-starnbergammer
 
 Spielt gerne die Spiele, die unsere Schüler (8—12 Jahre Alt) programmiert haben.
 
-```
-Hier kommt bestimmt etwas…
-```
+||||
+|-|-|-|
+|<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=S33836-98589-72654-15854" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>|<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_ArLCtaUK8Etc" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>|<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_bR0Xsx7q66dd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>|
 
 ## Für Teilnehmer
 
@@ -20,18 +20,13 @@ Hier kommt bestimmt etwas…
 
 ### [Sammler #1](https://arcade.makecode.com/S33836-98589-72654-15854)
 
-![Sammler 1 Image](/img/sammler1.png)
+![Sammler 1 Image](img/sammler1.png)
 
 Lernziele:
  - Hintergrund
  - Sprite
  - Kontroller
  - Überlappungen
-
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/#pub:S33836-98589-72654-15854" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
-
-
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---codeembed#pub:S33836-98589-72654-15854" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 ---
 &copy; Roboteria, [Prochor Kammerzell](http://kmzl.de)
