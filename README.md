@@ -38,7 +38,7 @@ Spielt gerne die Spiele, die unsere Schüler (8—12 Jahre Alt) programmiert hab
 #### [Sammler #1](https://arcade.makecode.com/S33836-98589-72654-15854)
 
 <a href="https://arcade.makecode.com/S33836-98589-72654-15854">
-  <img src="img/sammler1.png" width="240" height="180">
+  <img src="img/sammler-01.png" width="240" height="180">
 </a>
 
 Lernziele:
