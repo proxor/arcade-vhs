@@ -35,9 +35,9 @@ Spielt gerne die Spiele, die unsere Schüler (8—12 Jahre Alt) programmiert hab
 
 ### Beispiele und Übungen
 
-### [Sammler #1](https://arcade.makecode.com/S33836-98589-72654-15854)
+#### [Sammler #1](https://arcade.makecode.com/S33836-98589-72654-15854)
 
-<img src="img/sammler1.png" width="240" height="180" />
+<img src="img/sammler1.png" width="240" height="180">
 
 Lernziele:
  - Hintergrund
