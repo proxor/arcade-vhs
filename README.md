@@ -4,27 +4,75 @@ Willst du mitmachen? Schaue [die nächsten Kurse](https://www.vhs-starnbergammer
 
 ## Gallerie
 
-Spielt gerne die Spiele, die unsere Schüler (8—12 Jahre Alt) programmiert haben.
+Spielt gerne die Spiele, die unsere Schüler programmiert haben.
+
+### Labyrinth-Spiele
+
+<div class="flex-container">
+  <div class="flex-item">
+   <a href="HTTPS://MAKECODE.COM/_WY0D031x1A10">
+    <img src="img/maxi-02.png" width="240" height="180">
+    <div>Maxi</div>
+   </a>
+  </div>
+  <div class="flex-item">
+   <a href="HTTPS://MAKECODE.COM/_LDpCszYkvMMR">
+    <img src="img/tom-02.png" width="240" height="180">
+    <div>Tom</div>
+   </a>
+  </div>
+  <div class="flex-item">
+   <a href="HTTPS://MAKECODE.COM/_WdWJCigW4MJ5">
+    <img src="img/ragnar-02.png" width="240" height="180">
+    <div>Ragnar</div>
+   </a>
+  </div>
+  <div class="flex-item">
+   <a href="HTTPS://MAKECODE.COM/_5hsRzrVi0TbF">
+    <img src="img/max-02.png" width="240" height="180">
+    <div>Max</div>
+   </a>
+  </div>
+  <div class="flex-item">
+   <a href="HTTPS://MAKECODE.COM/_FyoYUXC7FbdR">
+    <img src="img/emil-02.png" width="240" height="180">
+    <div>Emil</div>
+   </a>
+  </div>
+  <div class="flex-item">
+   <a href="HTTPS://MAKECODE.COM/_6rveuc9zAPoA">
+    <img src="img/kilian-02.png" width="240" height="180">
+    <div>Kilian</div>
+   </a>
+  </div>
+</div>
+
+
+### Sammler-Spiele
 
 <div class="flex-container">
   <div class="flex-item">
    <a href="https://makecode.com/_RHWPFUVdMi0h">
     <img src="img/1-1.png" width="240" height="180" title="Kilian">
+    <div>Kilian</div>
    </a>
   </div>
   <div class="flex-item">
    <a href="https://makecode.com/_Edm6p0iYq9Ek">
     <img src="img/ragnar-01.png" width="240" height="180" titel="Ragnar">
+    <div>Ragnar</div>
    </a>
   </div>
   <div class="flex-item">
    <a href="https://makecode.com/_2kpYcXe080ov">
     <img src="img/emil-01.png" width="240" height="180" title="Emil">
+    <div>Emil</div>
    </a> 
   </div>
   <div class="flex-item">
    <a href="https://makecode.com/_b4Y0pchrwbPd">
     <img src="img/maxi-01.png" width="240" height="180" title="Maximilian">
+    <div>Maxi</div>
    </a>
   </div>
 </div>
