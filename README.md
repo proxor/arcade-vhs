@@ -79,7 +79,9 @@ Spielt gerne die Spiele, die unsere Schüler programmiert haben.
 
 ## Für Teilnehmer
 
-> [Programmierumgebung](https://arcade.microsoft.com) — hier arbeitest du Zuhause und in der Klasse.
+ * [Programmierumgebung](https://arcade.microsoft.com) — hier arbeitest du Zuhause und in der Klasse.
+
+ * [Anleitung zum Retro Shield](retroshield.md)
 
 ### Beispiele und Übungen
 
